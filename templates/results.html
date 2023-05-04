@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Know Wallet - Results</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+  <header>
+    <img src="static/kw-official-logo-11@2x.png" alt="" srcset="">
+    <h1 style="font-size: 20px;">Know wallet</h1>
+    <h2>A CloneAI</h2>
+  </header>
+  <main>
+  <div class="dia">                
+    {% if question %}
+      <div class="result">
+        <div class="question"><b>You:</b>
+          <pre>{{ question }}</pre>
+        </div>
+        <hr>
+        <div class="response"><b>AI:</b>
+          <pre>{{ res }}</pre>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+  </main>
+  <p style="text-align: center;">This ai is genrated by ChatGPT API and developed by <a href="https://www.instagram.com/abhinav0691">Abhinav</a> with <a href="http://know-wallet.com">Know-Wallet</a></p>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js"></script>
+  <script src="static/script.js"></script>
+</body>
+</html>
