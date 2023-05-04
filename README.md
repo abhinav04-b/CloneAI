@@ -4,4 +4,6 @@ set-up: 1.Don't have have to anything just go to openai api and make a api key a
 2.now exucte comand "python .\main.py" or simply run the main.py file.
 3.go to the given domain and enjoy.
 
-You can ask everything regarding everthing, exept which may voilance the community. 
+You can ask everything regarding everthing, exept which may voilance the community.
+
+![image](https://user-images.githubusercontent.com/76025844/236306235-195310d0-80bd-481a-ab80-3ef79780cca5.png)
