@@ -7,7 +7,17 @@ set-up: 1.Don't have have to anything just go to openai api and make a api key a
 You can ask everything regarding everthing, exept which may voilance the community.
 
 ![image](https://user-images.githubusercontent.com/76025844/236306722-9205b07a-d84e-4aae-bb52-888641a68cd0.png)
+
+
+
+
+
 ENTER YOUR QUERY HERE. HIT SUBMIT
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/76025844/236307857-4d7332a6-6f61-41c8-a391-f9704cb4f7ac.png)
 GET RESPONSE
